@@ -11,5 +11,7 @@ var count = 0;
 for (var i = 0; i < 5; ++i) {
     count++;
 }
+var firstName = "Ruben";
+var ruben = { firstName: firstName, age: 20, isHappy: false };
 console.log(count);
 //# sourceMappingURL=Test.js.map
