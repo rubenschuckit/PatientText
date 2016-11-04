@@ -3,6 +3,7 @@
  */
 var a = 5;
 var b = 10;
+//comment HC
 function add(a, b) {
     return a + b;
 }

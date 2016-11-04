@@ -2,9 +2,9 @@
  * Created by Ruben on 11/3/2016.
  */
 
-const a = 5;
-const b = 10;
-
+const a: number = 5;
+const b: number = 10;
+//comment HC
 function add(a: number, b: number): number {
     return a + b;
 }
