@@ -1,4 +1,4 @@
-![alt tag](https://postimg.org/image/3x7a0q8ut/)
+![alt tag](https://s18.postimg.org/golg78imx/archhacks_02.png)
 # PatientText
 
 PatientText translates medical abbreviations to plain, understandable text.
