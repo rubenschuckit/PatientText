@@ -543,3 +543,6 @@ V-tach & ventricular tachycardia
 W/D & warm and dry
 WDWN & well-developed, well-nourished
 YTD & year to date
+C-Collar & Cervical Collar
+C-Spine & Cervical Spine
+C-Section & Cesarean section
