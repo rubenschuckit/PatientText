@@ -1,4 +1,5 @@
 ﻿AAA & abdominal aortic aneurysm
+Afib & atrial fibrillation
 A-a gradient & alveolar to arterial gradient
 AAS & acute abdominal series
 ABD & abdomen
@@ -8,11 +9,11 @@ ACLS & advanced cardiac life support
 ACTH & adrenocorticotropic hormone
 AD & autonomic dysreflexia
 ad lib & as much as needed
-ADH & anti&diuretic hormone
+ADH & anti-diuretic hormone
 ADL & activity of daily living
 AF & atrial fibrillation or afebrile
-AFB & acid&fast bacilli
-AFP & alpha&fetoprotein
+AFB & acid-fast bacilli
+AFP & alpha-fetoprotein
 AFO & ankle foot orthosis
 A/G & albumin/globulin ratio
 AI & aortic insufficiency
@@ -32,7 +33,6 @@ ASAP & as soon as possible
 ASCVD & atherosclerotic cardiovascular disease
 ASD & atrial septal defect
 ASHD & atherosclerotic heart disease
-ASIA & American Spinal Injury Association
 AV & atrioventricular
 A-V & arteriovenous
 A-VO2 & arteriovenous oxygen
@@ -88,7 +88,7 @@ CPK & creatinine phosphokinase
 CPR & cardiopulmonary resuscitation
 CRCL & creatinine clearance
 CRF & chronic renal failure
-CRP & C&reactive protein
+CRP & C-reactive protein
 CRTS & certified recreational therapy specialist
 CSF & cerebrospinal fluid
 CSW & certified social worker
@@ -96,7 +96,7 @@ CT & computerized tomography
 CVA & cerebrovascular accident or costovertebral angle
 CVAT & CVA tenderness
 CVP & central venous pressure
-CXR & chest X&ray
+CXR & chest X-ray
 DAT & diet as tolerated
 DAW & dispense as written
 DC & discontinue or discharge
@@ -133,7 +133,7 @@ EOM & extraocular muscles
 ESR & erythrocyte sedimentation rate
 ET & endotracheal
 ETT & endotracheal tube
-ERCP & endoscopic retrograde cholangio &pancreatography
+ERCP & endoscopic retrograde cholangio -pancreatography
 ETOH & ethanol
 EUA & examination under anesthesia
 FBS & fasting blood sugar
@@ -142,7 +142,7 @@ FEV & forced expiratory volume
 FFP & fresh frozen plasma
 FRC & functional residual capacity
 FTT & failure to thrive
-FU & follow&up
+FU & follow-up
 FUO & fever of unknown origin
 FVC & forced vital capacity
 Fx & fracture
@@ -150,9 +150,10 @@ GC & gonorrhea
 GETT & general by endotracheal tube
 GFR & glomerular filtration rate
 GI & gastrointestinal
-gr & grain; 1 grain = 65mg
+gr & grain (1 grain = 65mg)
 GSW & gun shot wound
-gt or gtt & drops
+gt & drops
+gtt & drops
 GTT & glucose tolerance test
 GU & genitourinary
 GXT & graded exercise tolerance (Stress test)
@@ -163,9 +164,9 @@ HBP & high blood pressure
 HCG & human chorionic gonadotropin
 HCT & hematocrit
 HDL & high density lipoprotein
-HEENT & head, eyes, ears, nose, throat
+HEENT & head, eyes, ears, nose, and throat
 Hgb & hemoglobin
-H/H & Henderson&Hasselbach equation or hemoglobin/ hematocrit
+H/H & hemoglobin and hematocrit
 HIV & human immunodeficiency virus
 HLA & histocompatibility locus antigen
 HJR & hepatojugular reflex
@@ -184,7 +185,6 @@ I-D & incision and drainage
 I-O & intake and output
 ICS & intercostal space
 ICU & intensive care unit
-ID & infectious disease or identification
 IDDM & insulin dependent diabetes mellitus
 IG & immunoglobulin
 IHSS & idiopathic hypertropic subaortic stenosis
@@ -197,13 +197,13 @@ IRDM & insulin resistant diabetes mellitus
 IT & interthecal
 ITP & idiopathic thrombocytopenic purpura
 IV & intravenous
-IVC & intravenous cholangiogram or inferior vena cava
+IVC & inferior vena cava
 IVP & intravenous pyelogram
 JODM & juvenile onset diabetes mellitus
 JVD & jugular venous distention
 KAFO & knee ankle foot orthosis
 KOR & keep open rate
-KT & kinesio therapy or kinesiotherapist
+KT & kinesio therapy
 KUB & kidneys, ureters, bladder
 KVO & keep vein open
 L & left
@@ -219,7 +219,7 @@ LIH & left inguinal hernia
 LLL & left lower lobe
 LMP & last menstrual period
 LNMP & last normal menstrual period
-LOC & loss of consciousness or level of consciousness
+LOC & level of consciousness
 LP & lumbar puncture
 LPN & licensed practical nurse
 LUL & left upper quadrant
@@ -242,7 +242,7 @@ MMR & measles, mumps, rubella
 MRI & magnetic resonance imaging
 MRSA & methicillin resistant staph aureus
 MS & multiple sclerosis or mitral stenosis, or morphine sulfate
-MSSA & methicillin&sensitive staph aureus
+MSSA & methicillin-sensitive staph aureus
 MUSE & medicated urethral system erection
 MVA & motor vehicle accident
 MVI & multivitamin injection
@@ -253,13 +253,13 @@ NCV & nerve conduction velocity
 NED & no evidence of recurrent disease
 ng & nanogram
 NG & nasogastric
-NIDDM & non&insulin dependent diabetes mellitus
+NIDDM & non-insulin dependent diabetes mellitus
 NKA & no known allergies
 NKDA & no known drug allergies
 NMR & nuclear magnetic resonance
 NPO & nothing by mouth
 NRM & no regular medications
-NSAID & non&steroidal anti&inflammatory drugs
+NSAID & non-steroidal anti-inflammatory drugs
 NSR & normal sinus rhythm
 NT & nasotracheal
 OB & obstetrics
@@ -295,22 +295,22 @@ PMI & point of maximal impulse
 PMN & polymorphonuclear leukocyte (neutrophil)
 PND & paroxysmal nocturnal dyspnea
 PO & by mouth
-POD & post&op day
+POD & post-op day
 PP & postprandial or pulsus paradoxus
 PPD & purified protein derivative
 PPMS & primary progressive multiple sclerosis
-PPS & post&polio syndrome
+PPS & post-polio syndrome
 PR & by rectum
 PRBC & packed red blood cells
 PRN & as needed
 PS & pulmonic stenosis
-PSA & prostate&specific antigen
+PSA & prostate-specific antigen
 PT & prothrombin time, or physical therapy
 Pt & patient
 PTCA & percutaneous transluminal coronary angioplasty
 PTH & parathyroid hormone
 PTHC & percutanous transhepatic cholangiogram
-PTSD & post&traumatic stress disorder
+PTSD & post-traumatic stress disorder
 PTT & partial thromboplastin time
 PUD & peptic ulcer disease
 PVC & premature ventricular contraction
@@ -319,7 +319,8 @@ PVR & post voiding residual
 q & every
 qd & every day
 qh & every hour
-q4h, q6h.... & every 4 hours, every 6 hours etc.
+q4h & every 6 hours
+q6h & every 4 hours
 qid & four times a day
 QNS & quantity not sufficient
 qod & every other day
@@ -331,8 +332,8 @@ RAD & right atrial axis deviation
 RAE & right atrial enlargement
 RAP & right atrial pressure
 RBBB & right bundle branch block
-RBC & red blood cell
-RBP & retinol&binding protein
+RBC & red blood cell count
+RBP & retinol-binding protein
 RDA & recommended daily allowance
 RDW & red cell distribution width
 RIA & radioimmunoassay
@@ -345,9 +346,9 @@ R/O & rule out
 ROM & range of motion
 ROS & review of systems
 RPG & retrograde pyelogram
-RPMS & relapsing&progressive multiple sclerosis
-RRMS & relapsing&remitting multiple sclerosis
-RRR & regular rate and rhyth
+RPMS & relapsing-progressive multiple sclerosis
+RRMS & relapsing-remitting multiple sclerosis
+RRR & regular rate and rhythm
 RT & respiratory or radiation therapy
 RTA & renal tubular acidosis
 RTC & return to clinic
@@ -369,11 +370,11 @@ SCr & serum creatinine
 SCI & spinal cord injury
 SCI/D & spinal cord injury and disorder
 SEM & systolic ejection murmur
-SG & Swan&Ganz
+SG & Swan-Ganz
 SGA & small for gestational age
-SGGT & serum gamma&glutamyl transpeptidase
-SGOT & serum glutamic&oxaloacetic transaminase
-SGPT & serum glutamic&pyruvic transaminase
+SGGT & serum gamma-glutamyl transpeptidase
+SGOT & serum glutamic-oxaloacetic transaminase
+SGPT & serum glutamic-pyruvic transaminase
 SIADH & syndrome of inappropriate antidiuretic hormone
 sig & write on label
 SIMV & synchronous intermittent mandatory ventilation
@@ -384,7 +385,7 @@ SOAP & Subjective, Objective, Assessment, Plan
 SOB & shortness of breath
 SPMS & secondary preogressive multiple sclerosis
 SQ & subcutaneous
-ss & one&half
+ss & one-half
 STAT & immediately
 SVD & spontaneous vaginal delivery
 SW & social worker
@@ -394,7 +395,7 @@ TAH & total abdominal hysterectomy
 T-H & type and hold
 TB & tuberculosis
 TBG & total binding globulin
-Td & tetanus&diphtheria toxoid
+Td & tetanus-diphtheria toxoid
 TIA & transient ischemic attack
 TIBC & total iron binding capacity
 tid & three times a day
@@ -432,13 +433,119 @@ VO & verbal or voice order
 V/Q & ventilation & perfusion
 VSS & vital signs stable
 WB & whole blood
-WBC & white blood cell or count
+WBC & white blood cell count
 WD & well developed
 WF & white female
 WM & white male
 WN & well nourished
 WNL & within normal limits
-WPW & Wolf&Parkinson&White
-XRT & X&ray therapy
+WPW & Wolf-Parkinson-White
+XRT & X-ray therapy
 yo & years old
-ZE & Zollinger&Ellison
+ZE & Zollinger-Ellison
+AB & abortion
+abd & abdominal
+abx & antibiotic
+AMA & against medical advice
+AMI & acute myocardial infarcation
+AMS & altered mental status
+approx & approximately
+appt & appointment
+appy & appendectomy
+ASA & acetylsalicyclic acid (aspirin)
+BBS & bilateral breath sounds
+BCP & birth control pill
+BLE & bilateral lower extremities
+BSG & blood sugar glucose
+BUE & bilateral upper extremities
+cath & catheter
+CHI & closed head injury
+chole & cholecystectomy
+CMT & cervical motion tenderness
+c/o & complains of
+CO2 & carbon dioxide
+CTA & clear to auscultation or computerized tomography angiogram
+CV & cardiovascular
+d/c & discontinue
+Dx & diagnosis
+EKG & electrocardiogram
+EOMI & extra ocular movements intact
+epi & epinephrine
+EtOH & Ethyl Alcohol
+FB & foreign body
+FHT & fetal heart tone
+FROM & full range of motion
+FTN & finger to nose
+F/U & follow up
+GB & gallbladder
+GCS & Glascow coma scale
+GERD & gastro esophageal reflux disease
+h/o & history of
+hyst & hysterectomy
+IBS & irritable bowel syndrome
+ICD & implantable cardioverter-defibrillator
+ICH & intracranial hemorrhage
+ICP & intracranial pressure
+IUP & intrauterine pregnancy
+IVPB & intravenous piggyback
+lac & laceration
+LFT & liver function test
+LLQ & left lower quadrant
+L-spine & lumbar spine
+LUQ & left upper quadrant
+MAEW & moves all extremities well
+med & medication
+MIP & metacarpointerphalangeal
+MVC & motor vehicle collision
+NCAT & normocephalic, atraumatic
+NH & nursing home
+nl & normal
+NRB & nonrebreather 
+NTG & nitroglycerin
+N/V & nausea and vomiting
+N/V/D & nausea, vomiting, and diarrhea
+NS & normal saline
+O2 & oxygen
+obs & observe
+ortho & orthopedic
+palp & palpation
+PCN & penicillin
+PCP & primary care physician
+PERRLA & pupils equal, round and reactive to light and accommodation
+PID & pelvic inflammatory disease
+PIP & proximal interphalangeal 
+post-op & post operative
+preg & pregnancy
+PTA & prior to arrival
+PTX & pneumothroax
+q.h. & every hour
+q.h.s & every night at bedtime
+resp & respiratory
+RR & respiratory rate
+SBO & small bowel obstruction
+SI & sacroiliac
+SLR & straight-leg raise
+sono & sonogram
+SP & suprapubic
+SR & sinus rhythm
+STD & sexually transmitted disease
+strep & streptococcus
+SVT & supraventricular tachycardia
+tachy & tachycardia
+TM & tympanic membrane
+trach & tracheotomy
+T-spine & thoracic spine
+UDS & urine drug screen
+UTD & up to date
+Vfib & ventricular fibrillation
+VS & vital signs
+V-tach & ventricular tachycardia
+W/D & warm and dry
+WDWN & well-developed, well-nourished
+YTD & year to date
+C-collar & cervical collar
+C-Spine & cervical spine
+C-Section & cesarean section
+s/p & status post
+q.d. & every day
+V-Tach & ventricular tachycardia
