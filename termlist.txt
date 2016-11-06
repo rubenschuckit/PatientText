@@ -331,7 +331,7 @@ RAD & right atrial axis deviation
 RAE & right atrial enlargement
 RAP & right atrial pressure
 RBBB & right bundle branch block
-RBC & red blood cell
+RBC & red blood cell count
 RBP & retinol-binding protein
 RDA & recommended daily allowance
 RDW & red cell distribution width
@@ -432,7 +432,7 @@ VO & verbal or voice order
 V/Q & ventilation & perfusion
 VSS & vital signs stable
 WB & whole blood
-WBC & white blood cell or white blood cell count
+WBC & white blood cell count
 WD & well developed
 WF & white female
 WM & white male
