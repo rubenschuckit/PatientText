@@ -1,4 +1,5 @@
 ﻿AAA & abdominal aortic aneurysm
+Afib & atrial fibrillation
 A-a gradient & alveolar to arterial gradient
 AAS & acute abdominal series
 ABD & abdomen
@@ -347,7 +348,7 @@ ROS & review of systems
 RPG & retrograde pyelogram
 RPMS & relapsing-progressive multiple sclerosis
 RRMS & relapsing-remitting multiple sclerosis
-RRR & regular rate and rhyth
+RRR & regular rate and rhythm
 RT & respiratory or radiation therapy
 RTA & renal tubular acidosis
 RTC & return to clinic
@@ -442,3 +443,103 @@ WPW & Wolf-Parkinson-White
 XRT & X-ray therapy
 yo & years old
 ZE & Zollinger-Ellison
+AB & abortion
+abd & abdominal
+abx & antibiotic
+AMA & against medical advice
+AMI & acute myocardial infarcation
+AMS & altered mental status
+approx & approximately
+appt & appointment
+appy & appendectomy
+ASA & acetylsalicyclic acid (aspirin)
+BBS & bilateral breath sounds
+BCP & birth control pill
+BLE & bilateral lower extremities
+BSG & blood sugar glucose
+BUE & bilateral upper extremities
+cath & catheter
+CHI & closed head injury
+chole & cholecystectomy
+CMT & cervical motion tenderness
+c/o & complains of
+CO2 & carbon dioxide
+CTA & clear to auscultation or computerized tomography angiogram
+CV & cardiovascular
+d/c & discontinue
+Dx & diagnosis
+EKG & electrocardiogram
+EOMI & extra ocular movements intact
+epi & epinephrine
+EtOH & Ethyl Alcohol
+FB & foreign body
+FHT & fetal heart tone
+FROM & full range of motion
+FTN & finger to nose
+F/U & follow up
+GB & gallbladder
+GCS & Glascow coma scale
+GERD & gastro esophageal reflux disease
+h/o & history of
+hyst & hysterectomy
+IBS & irritable bowel syndrome
+ICD & implantable cardioverter-defibrillator
+ICH & intracranial hemorrhage
+ICP & intracranial pressure
+IUP & intrauterine pregnancy
+IVPB & intravenous piggyback
+lac & laceration
+LFT & liver function test
+LLQ & left lower quadrant
+L-spine & lumbar spine
+LUQ & left upper quadrant
+MAEW & moves all extremities well
+med & medication
+MIP & metacarpointerphalangeal
+MVC & motor vehicle collision
+NCAT & normocephalic, atraumatic
+NH & nursing home
+nl & normal
+NRB & nonrebreather 
+NTG & nitroglycerin
+N/V & nausea and vomiting
+N/V/D & nausea, vomiting, and diarrhea
+NS & normal saline
+O2 & oxygen
+obs & observe
+ortho & orthopedic
+palp & palpation
+PCN & penicillin
+PCP & primary care physician
+PERRLA & pupils equal, round and reactive to light and accommodation
+PID & pelvic inflammatory disease
+PIP & proximal interphalangeal 
+post-op & post operative
+preg & pregnancy
+PTA & prior to arrival
+PTX & pneumothroax
+q.h. & every hour
+q.h.s & every night at bedtime
+resp & respiratory
+RR & respiratory rate
+SBO & small bowel obstruction
+SI & sacroiliac
+SLR & straight-leg raise
+sono & sonogram
+SP & suprapubic
+SR & sinus rhythm
+STD & sexually transmitted disease
+strep & streptococcus
+SVT & supraventricular tachycardia
+tachy & tachycardia
+TM & tympanic membrane
+trach & tracheotomy
+T-spine & thoracic spine
+UDS & urine drug screen
+UTD & up to date
+Vfib & ventricular fibrillation
+VS & vital signs
+V-tach & ventricular tachycardia
+W/D & warm and dry
+WDWN & well-developed, well-nourished
+YTD & year to date
