@@ -23,7 +23,8 @@ with their expanded forms.
 ## History
 
 This extension was created as part of the ArchHacks Hackathon 2016 at Washington University in St. Louis.
-[ArchHacks](https://archhacks.io/)
+/n
+[ArchHacks Website](https://archhacks.io/)
 
 ## Credits
 
