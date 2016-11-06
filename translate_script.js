@@ -47,7 +47,7 @@ function readTextFile(fileName) {
 							const word = lineParts[i];
 							const find = dictionary[word];
 							if (find) {
-								node.textContent = node.textContent.replace(word, dictionary[word]);
+								node.textContent = node.textContent.replace(word, "[" + dictionary[word] + "]");
 							}
 						}
 					} else if(node.nodeType == Element.ELEMENT_NODE){

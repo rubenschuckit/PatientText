@@ -56,9 +56,7 @@ BS & bowel or breath sounds
 BUN & blood urea nitrogen
 BW & body weight
 BX & biopsy
-c & with
 C-S & culture and sensitivity
-CA & cancer
 Ca & calcium
 CAA & crystalline amino acids
 CABG & coronary artery bypass graft
@@ -206,7 +204,6 @@ KOR & keep open rate
 KT & kinesio therapy
 KUB & kidneys, ureters, bladder
 KVO & keep vein open
-L & left
 LAD & left axis deviation or left anterior descending
 LAE & left atrial enlargement
 LAHB & left anterior hemiblock
@@ -268,11 +265,9 @@ OD & overdose or right eye
 OM & otitis media
 OOB & out of bed
 OPV & oral polio vaccine
-OR & operating room
 OS & left eye
 OT & occupational therapy or occupational therapist
 OU & both eyes
-P & para
 PA & posteroanterior
 PAC & premature atrial contraction
 PAO2 & alveolar oxygen
@@ -359,7 +354,6 @@ RUQ & right upper quadrant
 RV & residual volume
 RVH & right ventricular hyperthrophy
 Rx & treatment
-s & without
 SA & sinoatrial
 SAA & synthetic amino acid
 S&E & sugar and acetone
