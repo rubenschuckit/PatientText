@@ -3,6 +3,8 @@
 
 PatientText translates medical abbreviations to plain, understandable text.
 
+[Chrome Extension](https://chrome.google.com/webstore/detail/patienttext/koehfflekkicnmaphnhnagdoanicpbdp)
+
 ## Installations
 
 PatientText is a Chrome extension and can be found in the Chrome Web Store.
@@ -21,6 +23,8 @@ with their expanded forms.
 5. Submit a pull request :D
 
 ## History
+
+v1.0 Initial Release 
 
 This extension was created as part of the ArchHacks Hackathon 2016 at Washington University in St. Louis. 
 
