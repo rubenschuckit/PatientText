@@ -28,7 +28,6 @@ AODM & adult onset diabetes mellitus
 AP & anteroposterior or abdominal & perineal
 ARDS & acute respiratory distress syndrome
 ARF & acute renal failure
-AS & aortic stenosis
 ASAP & as soon as possible
 ASCVD & atherosclerotic cardiovascular disease
 ASD & atrial septal defect
@@ -321,7 +320,6 @@ QNS & quantity not sufficient
 qod & every other day
 Qs/Qt & shunt fraction
 Qt & total cardiac output
-R & right
 RA & rheumatoid arthritis or right atrium
 RAD & right atrial axis deviation
 RAE & right atrial enlargement
@@ -398,7 +396,6 @@ TKO & to keep open
 TLC & total lung capacity
 TMJ & temporo mandibular joint
 TNTC & too numerous to count
-TO & telephone order
 TOPV & trivalent oral polio vaccine
 TPN & total parenteral nutrition
 TSH & thyroid stimulating hormone
@@ -543,3 +540,4 @@ C-Section & cesarean section
 s/p & status post
 q.d. & every day
 V-Tach & ventricular tachycardia
+AIDS & acquired immune deficiency syndrome
