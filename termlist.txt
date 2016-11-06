@@ -57,7 +57,7 @@ BUN & blood urea nitrogen
 BW & body weight
 BX & biopsy
 C-S & culture and sensitivity
-Ca & calcium
+CA & calcium
 CAA & crystalline amino acids
 CABG & coronary artery bypass graft
 CAD & coronary artery disease
