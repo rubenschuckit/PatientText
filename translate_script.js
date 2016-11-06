@@ -29,7 +29,7 @@ function readTextFile(fileName) {
 			for(let i = 0; i < termLines.length; ++i) {
 				const line = termLines[i];
 				const termParts = line.split('&');
-				dictionary[termParts[0].trim()] = termParts[1];
+				dictionary[termParts[0].trim()] = termParts[1].trim();
 			}
 			
 			var replaceTextInNode = function(parentNode){
@@ -47,7 +47,8 @@ function readTextFile(fileName) {
 							const word = lineParts[i];
 							const find = dictionary[word];
 							if (find) {
-								node.textContent = node.textContent.replace(word, "[" + dictionary[word] + "]");
+								const regex = new RegExp("\\b(" + word + ")\\b", "gi");
+								node.textContent = node.textContent.replace(regex, "[" + dictionary[word] + "]");
 							}
 						}
 					} else if(node.nodeType == Element.ELEMENT_NODE){
