@@ -1,7 +1,9 @@
 {
   "manifest_version": 2,
   "name": "PatientText",
+  "description":"While viewing medical records or test results, click the PatientText icon to replace medical abbreviations with their expanded forms",
   "version": "1.0",
+  "short_name":"PatientText",
   "permissions": [
 	"activeTab",
     "tabs", "<all_urls>"
@@ -16,5 +18,8 @@
   },
   "web_accessible_resources": [
     "termlist.txt"
-	]
+	],
+	"icons": { 
+           "48": "icon48.png",
+          "128": "icon128.png" }
 }
